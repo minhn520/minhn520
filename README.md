@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minhn520
+- 👋 Hi, I’m Minh Nguyen.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning machine learning techniques using Python.
 - 📫 How to reach me: minhn520@gmail.com
